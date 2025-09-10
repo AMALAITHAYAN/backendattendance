@@ -1,0 +1,13 @@
+# Java/Maven
+target/
+*.log
+*.iml
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+
+# app data
+uploads/
